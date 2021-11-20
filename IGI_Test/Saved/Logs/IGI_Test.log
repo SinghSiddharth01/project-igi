@@ -1320,3 +1320,11 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.11.20-05.37.16:270][963]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.20-05.37.16:270][963]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.11.20-05.37.16:270][963]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.11.20-05.50.25:951][401]LogEditorViewport: Clicking Background
+[2021.11.20-05.50.33:028][202]LogEditorViewport: Clicking Background
+[2021.11.20-05.50.33:391][242]LogEditorViewport: Clicking Background
+[2021.11.20-05.50.47:487][572]Cmd: DELETE
+[2021.11.20-05.50.47:487][572]Cmd: ACTOR DELETE
+[2021.11.20-05.50.47:490][572]LogEditorActor: Deleted Actor: VolumetricCloud
+[2021.11.20-05.50.47:501][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.11.20-05.50.47:503][572]LogEditorActor: Deleted 1 Actors (0.015 secs)
